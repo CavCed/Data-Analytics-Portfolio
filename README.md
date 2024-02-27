@@ -3,8 +3,13 @@
 #### Introduction:
 Hello! My name is Cedrick Cavan and I currently have a bachlor's of science degree in Kinesiology and Health.
 
+
+# Certifications
+
+- [`Google Data Analytics Certification`](https://coursera.org/share/04c0e197baf06215a78a8bec27cf07d3) (Nov 2023)
+
 # Portfolio Projects:
-This section contains projects in which I showcase the analytical skills that I have learned and applied.
+
 
 ## Excel 
 
@@ -30,11 +35,20 @@ This section contains projects in which I showcase the analytical skills that I 
 
 **Software**: PostgreSQL
 
-# Education
+## Tableau
 
-- Iowa State University, Iowa: Bachlor's degree, Kinesiology and Health (Aug 2017 - May 2021)
+### Washington County Sales
 
-# Certifications
+**Code**: ['Washington County Sales Dashboard'](https://public.tableau.com/views/WashingCountysalesdashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-- [`Google Data Analytics Certification`](https://coursera.org/share/04c0e197baf06215a78a8bec27cf07d3) (Nov 2023)
-- [`Introduction to SQL - Solo Learn`](https://www.sololearn.com/certificates/CC-ZM1AS8Y6) (Aug 2023)
+**Description**: 
+
+**Skills**:
+
+### British Airway
+
+**code**: ['British Airway Review Dashboard'](https://public.tableau.com/views/BritishAirwayReviews_17073542347010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Description**:
+
+**Skills**:
