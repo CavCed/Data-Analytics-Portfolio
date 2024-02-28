@@ -1,19 +1,20 @@
 # Data Analytics Portfolio
 
-#### Introduction:
+### Introduction:
 Hello! My name is Cedrick Cavan and I currently have a bachlor's of science degree in Kinesiology and Health.
 
 
-# Certifications
+## Certifications
 
 - [`Google Data Analytics Certification`](https://coursera.org/share/04c0e197baf06215a78a8bec27cf07d3) (Nov 2023)
 
-# Portfolio Projects:
+
+# Projects:
 
 
 ## Excel 
 
-#### Coffee Orders
+#### 1.) Coffee Orders
 **Code**: [`Coffee Order Dashboard`](https://github.com/CavCed/DataAnalyticsPortfolio/blob/main/Excel%20Coffee%20Order%20Dashboard.xlsx)
 
 **Description** The dataset contained an orders table, customer table, and product type table in which I used excel's functions to create an interactive dashboard for stakeholders to filter and view the total coffee sales over a period of time.
@@ -35,20 +36,21 @@ Hello! My name is Cedrick Cavan and I currently have a bachlor's of science degr
 
 **Software**: PostgreSQL
 
+
 ## Tableau
 
 ### Washington County Sales
 
-**Code**: ['Washington County Sales Dashboard'](https://public.tableau.com/views/WashingCountysalesdashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+**Code**: ['Washington County Sales Dashboard'](https://public.tableau.com/shared/2CMX6Y7ZM?:display_count=n&:origin=viz_share_link)
 
-**Description**: 
+**Description**: This visualization is created using dataset that contains information from the Washington, Oregon county that shows the average price of houses that were bought within each location. On the dashboard, you are able to see the quality of the house and different features of the home such as the number of bedrooms, bathrooms, year built, and how many square footage.
 
-**Skills**:
+**Skills**: Visualization, Color Scheme, Filters, Histograms, Heatmaps
 
 ### British Airway
 
 **code**: ['British Airway Review Dashboard'](https://public.tableau.com/views/BritishAirwayReviews_17073542347010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-**Description**:
+**Description**: This visualization is created in order to show the rating trends for British airways. Within the interactive dashboard, you can see the average ratings across all the continents and their monthly rating scores filtered by different features ranging from food servive to the cabin staff service.
 
-**Skills**:
+**Skills**: Visualization, storytelling, filtering 
