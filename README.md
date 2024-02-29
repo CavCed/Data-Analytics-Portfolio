@@ -13,6 +13,10 @@ Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/)
 
 - [`Google Data Analytics Certification`](https://coursera.org/share/04c0e197baf06215a78a8bec27cf07d3) (Nov 2023)
 
+## Table of Contents
+- ### Excel
+- ### SQL
+- ### Tableau
 
 # Projects:
 
