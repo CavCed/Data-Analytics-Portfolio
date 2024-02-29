@@ -1,4 +1,5 @@
 ## Tableau Projects
+Below are the different tableau project dashboards I have created. Enjoy!
 
 ### Washington County Sales
 
@@ -8,6 +9,11 @@
 
 **Skills**: Visualization, Color Scheme, Filters, Histograms, Heatmaps
 
+**Preview**
+![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/eeaeca55-77c3-4ccd-8ecc-dc29a9bd9ce5)
+
+
+
 ### British Airway
 
 **code**: ['British Airway Review Dashboard'](https://public.tableau.com/views/BritishAirwayReviews_17073542347010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
@@ -15,3 +21,6 @@
 **Description**: This visualization is created in order to show the rating trends for British airways. Within the interactive dashboard, you can see the average ratings across all the continents and their monthly rating scores filtered by different features ranging from food servive to the cabin staff service.
 
 **Skills**: Visualization, storytelling, filtering 
+
+**Preview**
+![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/017a0127-e5bf-4c00-b73b-068a3261dc2a)
