@@ -1,6 +1,6 @@
 # Brief Project Descriptions
 
-### COVID-19 Project
+## COVID-19 Project
 #### Code: 
 [Covid-19 Project](https://github.com/CavCed/DataAnalyticsPortfolio/blob/97bf7ba50735b93d3a3adb526247a1b9ad9d9cd7/SQL/Covid%20Project%20Query.sql)
 
@@ -13,6 +13,15 @@ EDA (Exploratory Data Analysis), data manipulation, aggregate functions, Convert
 #### Software: 
 PostgreSQL
 
-### Netflix full-analysis
+## Netflix Full Analysis Project
 #### Code:
-[Netflix Analysis](
+[Netflix Analysis](https://github.com/CavCed/DataAnalyticsPortfolio/blob/be32e519224a95d27a44fa1beccf2502375294ce/SQL/Netflix/Full%20Analysis.md)
+
+#### Description:
+This is a full and in-depth analysis of Netflix and the amount of films they have produced throughout the years and other metrics such as the genre, film type, directors, cast members, and duration of film.
+
+#### Skills:
+Data Collection, EDA (Exploratory Data Analysis), Data cleaning and manipulation, aggregate functions, filters, Data Visualization
+
+#### Software:
+Microsoft Excel, Microsoft SQL server, Tableau
