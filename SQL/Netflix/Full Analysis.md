@@ -76,7 +76,7 @@ Notebook:
 
 ## Step 3: Visualization in Tableau:
 
-Link to my dashboard can be found here: [Netflix Dashboard](https://public.tableau.com/views/NetflixDashboard_17083612145830/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+Link to dashboard: [Netflix Dashboard](https://public.tableau.com/views/NetflixDashboard_17083612145830/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ### Contents include:
 -	Movie/Show Distribution
