@@ -15,7 +15,7 @@ Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/) :mailbo
 
 ## Table of Contents
 - ### Excel 📊
-  - [Coffee Order Dashboard](https://github.com/CavCed/Data-Analytics-Portfolio/blob/52b7149334ed104f67f6fe31289249f768ed0224/Excel/Excel%20Coffee%20Order%20Dashboard.xlsx)
+  - [Coffee Orders](https://github.com/CavCed/Data-Analytics-Portfolio/blob/52b7149334ed104f67f6fe31289249f768ed0224/Excel/Excel%20Coffee%20Order%20Dashboard.xlsx)
 - ### SQL 💻
   - [Covid Data Exploratory SQL](https://github.com/CavCed/Data-Analytics-Portfolio/blob/0135a743745a510dd951771df0d301c398836f0c/SQL/Covid%20Project%20Query.sql)
   - [Netflix Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/blob/0135a743745a510dd951771df0d301c398836f0c/SQL/Netflix/Full%20Analysis.md)
