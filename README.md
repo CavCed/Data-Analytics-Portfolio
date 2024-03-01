@@ -16,6 +16,8 @@ Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/)
 ## Table of Contents
 - ### Excel
 - ### SQL
+  - [Covid Data Exploratory SQL](https://github.com/CavCed/Data-Analytics-Portfolio/blob/0135a743745a510dd951771df0d301c398836f0c/SQL/Covid%20Project%20Query.sql)
+  - [Netflix Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/blob/0135a743745a510dd951771df0d301c398836f0c/SQL/Netflix/Full%20Analysis.md)
 - ### Tableau
   - [Washington County Dashboard](https://github.com/CavCed/Data-Analytics-Portfolio/tree/f0994aa567fdcefc9d56aaaf1703567d025214c9/Tableau#washington-county-sales)
   - [British Airway Review](https://github.com/CavCed/Data-Analytics-Portfolio/tree/f0994aa567fdcefc9d56aaaf1703567d025214c9/Tableau#washington-county-sales)
