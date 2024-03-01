@@ -7,7 +7,7 @@ In this repository, you will find different projects that I have created in my f
 
 Thank you for taking the time to explore my repository. Please feel free to reach out to me for any questions! :grin:
 
-Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/)
+Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/) :mailbox:
 
 ## Certifications
 
