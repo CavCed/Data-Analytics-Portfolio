@@ -9,30 +9,17 @@ Thank you for taking the time to explore my repository. Please feel free to reac
 
 Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/) :mailbox:
 
-## Certifications
+## Certifications 🎓
 
 - [`Google Data Analytics Certification`](https://coursera.org/share/04c0e197baf06215a78a8bec27cf07d3) (Nov 2023)
 
 ## Table of Contents
-- ### Excel
-- ### SQL
+- ### Excel 📊
+  - [Coffee Order Dashboard](https://github.com/CavCed/Data-Analytics-Portfolio/blob/52b7149334ed104f67f6fe31289249f768ed0224/Excel/Excel%20Coffee%20Order%20Dashboard.xlsx)
+- ### SQL 💻
   - [Covid Data Exploratory SQL](https://github.com/CavCed/Data-Analytics-Portfolio/blob/0135a743745a510dd951771df0d301c398836f0c/SQL/Covid%20Project%20Query.sql)
   - [Netflix Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/blob/0135a743745a510dd951771df0d301c398836f0c/SQL/Netflix/Full%20Analysis.md)
-- ### Tableau
+- ### Tableau 📈
   - [Washington County Dashboard](https://github.com/CavCed/Data-Analytics-Portfolio/tree/f0994aa567fdcefc9d56aaaf1703567d025214c9/Tableau#washington-county-sales)
   - [British Airway Review](https://github.com/CavCed/Data-Analytics-Portfolio/tree/f0994aa567fdcefc9d56aaaf1703567d025214c9/Tableau#washington-county-sales)
   - [Netflix Dashboard](https://public.tableau.com/views/NetflixDashboard_17083612145830/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-# Projects:
-
-
-## Excel 
-
-#### 1.) Coffee Orders
-**Code**: [`Coffee Order Dashboard`](https://github.com/CavCed/DataAnalyticsPortfolio/blob/main/Excel%20Coffee%20Order%20Dashboard.xlsx)
-
-**Description** The dataset contained an orders table, customer table, and product type table in which I used excel's functions to create an interactive dashboard for stakeholders to filter and view the total coffee sales over a period of time.
-
-**Skills**: INDEX(), IF(), XLOOKUP(), CONVERT(), Pivot Tables, filter, slicer, visualization
-
-**Software**: Microsoft Excel
