@@ -14,7 +14,7 @@ Below are the different tableau project dashboards I have created. Enjoy!
 
 
 
-### British Airway
+### British Airway Review
 
 **code**: ['British Airway Review Dashboard'](https://public.tableau.com/views/BritishAirwayReviews_17073542347010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
@@ -24,3 +24,15 @@ Below are the different tableau project dashboards I have created. Enjoy!
 
 **Preview**
 ![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/017a0127-e5bf-4c00-b73b-068a3261dc2a)
+
+### Global Death Dashboard
+
+**code** ['Global Deaths Dashboard'](https://public.tableau.com/views/GlobalDeaths_17103647263140/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Description**: The data set I used for this visualization can be found here ['Causes of Death-Our World in Data'](https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data). In this dashboard, I created interactive graphs that can be filtered by different attributes such as total deaths per year, location, or cause of deaths. Viewers can see the most prominent causes of deaths globaly throughout the years and make insights on buisness decisions.
+
+**Skills**: Visualization, graphing, analytical organization
+
+**Preview**
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/088ae098-06c0-4982-9218-e18e6ef41c5c)
+
