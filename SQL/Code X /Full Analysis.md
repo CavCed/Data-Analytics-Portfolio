@@ -1,8 +1,8 @@
 # Code X Energy Drink Analysis
 ## Table of Contents
 - Introduction
-- Data Exploratory in Big Query
-- Visualization in Power BI
+- Data Exploratory
+- Dashboard
 - Analysis/key findings
 - Conclusion
 
@@ -22,8 +22,8 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
 ### Tasks:
-Answer these following questions to finds out primary and secondary insights to conclude ideas promoting Code X energy drink and the brand.
-1. Demographic Insights (examples)
+Answer these following questions to find insights to conclude ideas promoting Code X energy drink and the brand.
+1. Demographic Insights 
 
        a. Who prefers energy drink more?
 
@@ -31,31 +31,31 @@ Answer these following questions to finds out primary and secondary insights to 
 
        c. Which type of marketing reaches the most Youth (15-30)?
   
-3. Consumer Preferences:
+2. Consumer Preferences:
 
        a. What are the preferred ingredients of energy drinks among respondents?
 
        b. What packaging preferences do respondents have for energy drinks?
   
-5. Competition Analysis:
+3. Competition Analysis:
 
        a. Who are the current market leaders?
 
        b. What are the primary reasons consumers prefer those brands over ours?
    
-7. Marketing Channels and Brand Awareness:
+4. Marketing Channels and Brand Awareness:
 
        a. Which marketing channel can be used to reach more customers?
 
        b. How effective are different marketing strategies and channels in reaching our customers?
 
-9. Brand Penetration:
+5. Brand Penetration:
 
        a. What do people think about our brand? (overall rating)
   
        b. Which cities do we need to focus more on?
        
-10. Purchase Behavior:
+6. Purchase Behavior:
 
         a. Where do respondents prefer to purchase energy drinks?
   
@@ -63,7 +63,7 @@ Answer these following questions to finds out primary and secondary insights to 
     
         c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
   
-12. Product Development
+7. Product Development
 
         a. Which area of business should we focus more on our product development? (Branding/taste/availability)
 
@@ -72,53 +72,56 @@ Answer these following questions to finds out primary and secondary insights to 
 The datasets were downloaded to Google's Big Query cloud platform for data cleaning/exlploration and then transfered to Power BI to create an interactive dashboard illustrating the main findings from my analysis. 
 
 ----
-## Step 2: Data Cleaning and Exploratory in SQL:
+## Step 2: Data Exploratory:
 #### Data Cleaning Process:
-Prior to analyzing the data, I noticed that column duration has shifted to ratings column for show_id s5542, s5795, and s5814 so I shifted them to the correct column in excel.
+Once the datasets were downloaded, they were uploaded to Google's cloud platform Big Query for date cleaing and exploratory using GoogleSQL.
 
-Notebook:
+After review, this dataset is very clean due to no duplicates, null, or missing values allowing for an accurate analysis.
 
-1.)	Early part of data exploratory I wanted to know the amount of data that I am working with and then showing then breaking it down further by showing the total number of Movies and TV shows that are contained in the dataset.
- 
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/17c885f9-e94b-4fb1-b17f-c7650cc6e801)
+#### Data Exploratory
 
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/b354c81c-bf44-49dc-adde-98a36a0839d9)
+###### 1. Demographic Insights
+
+Who Prefers Energy Drinks more? - Males
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/e7a86b7b-13cb-42b9-be86-3540e019ddb7)
+
+Which age group prefers enery drinks more? - A: Most energy drink consumers are between the ages of 19-30 years old
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/79b129fd-34e3-4b83-a3d0-a18878a0a193)
+
+What type of Marketing reaches the most youths? - A: Online/digital platforms reaches youths compared to physical advertisements such as billboards and print media
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/455eace0-ea8b-4d26-9912-4336695ba04e)
+
+##### 2. Consumer Preference
+
+What are the preferred energy drinks amount respondents? - A: Hence the name, most consumers prefer caffeine to be the main ingredient while only a few only prefer guarana, a plant, that produces similar effects to caffeine.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/5c84d7ee-9449-4454-8f09-be293ac6b4fd)
+
+What packaging preference do respondents prefer the most? - A: Respodents prefer copmact and portabile cans compared to other forms of packaging.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/1f91a26a-a033-4d80-8171-7f90ed9df527)
+
+##### 3. Competition Analysis
+
+Who are the current Market leaders? - A: 1st cola-Coka, 2nd: Bepsi, 3rd: Gangster and Code X ranks 5th on the list
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/dc666082-19f2-4fac-b4e5-45a1606ad5fd)
+
+What are the primary reasons consumers prefer those brands compared to ours? - A: Consumers choose Cola-Coka due to the brand reputation that it has compared to ours.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/e89f5a89-3ef9-416f-a2e4-0c270062d426)
+
+##### 4. Marketing Channels and Brand Awareness
+
+Which marketing channel can be used to reach more customers? - A: Responders selected that that they see most energy drink advertisements through digital media such as online ads and TV commercials which are more compared to the sum of billboards, print media, and other forms of advertisement (billboards + print media + other = 3292).
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/925f6781-9ed1-40dd-867c-a2b7343126d1)
 
 
-2.)	To show what contents are available in different countries, I wanted to first see what countries the biggest film producers.
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/4397ac5e-b0b8-44e7-badb-63f7dc2d8ddb)
- 
-2a.) I then wanted to see which TV/Movie Ratings were most common throughout the dataset.
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/9f5014ea-b0d7-461b-adfd-11e8ed67cf5e)
-
-
-2b.) I then took the Top 3 countries (US, India, and United Kingdom) and compared what TV/Movie ratings were available in each country.
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/16f529a2-554d-4af6-8def-5450047c933f)
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/5c2b7934-b4b5-42a0-b654-410672fb866a)
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/bd0da5fd-6b59-4303-8a59-b2837b7a9d8a)
-     
-
-3.)	To look at the network relationship between directors and cast members, I first looked at which director has produced the most films in the dataset.
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/fe19070d-7e86-4cf8-951d-43644bbf7ff9)
-
-  
-3a.) I then looked at which cast member(s) and the total number of films they are in.
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/27aa7295-c873-484f-bf63-4255a0357038)
-
- 
-3b.) For the next step I looked at the top 5 producing directors and see which cast were associated with their movies/TV shows
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/e621e5ae-b89c-4334-8dd0-39c36c1b0a62)
-
- 
-3c.) For extra analysis, I took the most frequent network connection between the director and cast member(s) and looked at what type of film they produced the most.
-
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/7a5dda36-9497-4df8-b7a3-8998d3c02657)
+How effective are different marketing strategies and channels in reaching our customers?
 
 ---- 
 
