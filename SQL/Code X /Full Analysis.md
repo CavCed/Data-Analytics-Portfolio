@@ -7,7 +7,7 @@
 - Conclusion
 
 ## Step 1: Introduction:
-Dhavel Patel and his partner Hemanand Vadivel, founders or E-learning platform, code basics, partner up to create different challeneges that aspiring analysts can use to practice and develop their analytical skills to help them become a better data analyts.
+Dhavel Patel and his partner Hemanand Vadivel, founders or E-learning platform, code basics, partner up to create different challeneges that aspiring analysts can use to practice and develop their analytical skills to help them become a better data analysts.
 
 The dataset can be found on their main website here [Codebasic.io](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 
@@ -80,7 +80,7 @@ After review, this dataset is very clean due to no duplicates, null, or missing 
 
 #### Data Exploratory
 
-###### 1. Demographic Insights
+##### 1. Demographic Insights
 
 Who Prefers Energy Drinks more? - Males
 
@@ -121,50 +121,68 @@ Which marketing channel can be used to reach more customers? - A: Responders sel
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/925f6781-9ed1-40dd-867c-a2b7343126d1)
 
 
-How effective are different marketing strategies and channels in reaching our customers?
+**How effective are different marketing strategies and channels in reaching our customers?**
+
+- A: Filtering out other brands, I found similar patterns as the questions prior in which digital marketing strategies are the most effective in reaching our customers.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/0a51a596-5ce7-428a-a704-dad6335e734c)
+
+#### 5. Brand Penertration
+
+**What do responders think about Code X as a brand?**
+
+- A: 56.04% of responders who have heard of the brand before have a neutral rating about Code X while 25.05% have a positive review and only 18.9% have a negative persepective on the brand.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/bddb3fe4-158e-430a-aa45-35943a48f240)
+
+**What Cities do we need focus more on?**
+
+- A: Tier 1 cities that the company can focus on distributing more energy drinks to are Delhi and Chennai.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/1e1029c6-e9cc-4bde-8aae-52337fea5a00)
+
+#### 6. Purchase Behavior
+
+**Where do respondent prefer to purchase energy drinks?**
+
+- A: Most energy drink purchases are bought at supermarketes, online retailers, and gym/fitness centers.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/3fe700d0-370c-477e-af2e-305ddf3ca5d0)
+
+**What are the typical consumption situations for energy drink among respondents?**
+
+- A: Most of our consumers typically consume our products durings sports/exercise and studying/working late
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/73acdcb1-f03c-4c41-b24f-984ec2083c6e)
+
+
+**What factors influence respondents' purchase decisions, such as price range and limited edition packaging?**
+
+- A: Respnders are willing to spend on an average price range of 50-150 Rupees (Indian Currency) on energy dirnks and a 40% of those are willing to buy limited edition packaging while the other 60% are not sure or not willing to buy limited edition packaging.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/e310f94d-d442-4f09-8edc-ff4195cb4b30)
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/5afef2de-06f5-4ccf-bbe3-a83dffdf2b98)
+
+#### 7. Product Development
+
+**Which are of buisness should we focus more on our product? (Branding/Taste/Availibity)?
 
 ---- 
 
-## Step 3: Visualization in Tableau:
-
-Link to dashboard: [Netflix Dashboard](https://public.tableau.com/views/NetflixDashboard_17083612145830/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+## Step 3: Visualization in Power BI:
 
 ### Contents include:
--	Movie/Show Distribution
--	Heatmap of countries where films were produced.
--	Tree map of most common Genre
--	Count of films released throughout the years.
--	Top Directors
--	Top Cast members
 
-![image](https://github.com/CavCed/DataAnalyticsPortfolio/assets/154090883/5b8b989b-1ba7-4329-9428-f2dc2a87e8f5)
+
 
 
 ----
 ## Step 4: Analysis/Key findings:
 
-- There are more movies produced than TV films in the dataset
-  
--	The top 3 countries that produce the most amount of TV shows/Movies are the United States, India, and United Kingdom in that order.
--	United States and India had more movies filmed in their country.
--	United Kingdom almost had equal amount of TV shows and movies.
 
-- Rajiv Chilaka directed the greatest number of films in this case the most movies.
-
-- Most films were released to Netflix in the late 2000’s
-
-- Highest number of Genre produced were Dramas, International Movies
 
 ----
 ## Step 5: Conclusion:
 
-### Revisiting Questions that need to be answered:
 
-#### 1.)	Does Netflix have more focus on TV Shows or Movies?
--	According to this dataset, Netflix has more of an emphasis on Movies compared to TV shows.
-  
-#### 2.)	What content is available in different countries?
--	Based on the top 3 producing countries, the United States allows all types of contents while India and United Kingdom only allow a few ratings in their country
-
-#### 3.)	What is the network analysis of Actors/Directors?
--	Rajiv Chi
