@@ -166,7 +166,21 @@ Which marketing channel can be used to reach more customers? - A: Responders sel
 
 #### 7. Product Development
 
-**Which are of buisness should we focus more on our product? (Branding/Taste/Availibity)?
+**Which are of buisness should we focus more on our product? (Branding/Taste/Availibity)?**
+
+**Taste**
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/1c57af3f-9e69-4141-be3e-7ed3a844101c)
+
+**Improvements Desired**
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/69823767-2b4b-4ecc-bf33-9813c92fa5a1)
+
+**Interest in Natural or Organic Ingredients**
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/750641f7-e0e5-40fe-ba27-3b4e55634e6c)
+
+
 
 ---- 
 
