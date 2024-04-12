@@ -83,7 +83,7 @@ ORDER BY frequency desc
 -- Taking the top 5 directors and seeing which cast members they included into their films
 SELECT director, cast, count(cast) as total
 FROM dbo.netflix_titles
-WHERE director = 'Rajiv Chilaka' OR director = 'Suhas Kadav' OR director LIKE 'Raú%' OR director = 'Marcus Raboy' OR director = 'Jay Karas'
+WHERE director = 'Rajiv Chilaka' OR director = 'Suhas Kadav' OR director LIKE 'RaÃº%' OR director = 'Marcus Raboy' OR director = 'Jay Karas'
 GROUP BY cast, Director
 HAVING count(cast) > 1
 ORDER BY director
