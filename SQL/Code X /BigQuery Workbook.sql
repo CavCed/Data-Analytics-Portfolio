@@ -139,7 +139,11 @@ WHERE Current_brands = "CodeX"
 GROUP BY Improvements_desired
 
 -- Do surveryors have in interest in Natural or organic ingredients? (Majority states yes)
-SELECT Interest_in_natural_or_organic, count(Interest_in_natural_or_organic) as Total_interest_count
+WITH Total_count AS (
+  SELECT COUNT(*) AS Total_count
+  FROM `CodeX.Survey_answers`
+)
+SELECT Interest_in_natural_or_organic, COUNT(Interest_in_natural_or_organic) as Total_Interest_count, (COUNT(Interest_in_natural_or_organic)*100.0/Total_count.Total_count) AS Percentage
 FROM `CodeX.Survey_answers`
-GROUP BY Interest_in_natural_or_organic
-
+CROSS JOIN Total_count
+GROUP BY Interest_in_natural_or_organic, Total_count.Total_count
