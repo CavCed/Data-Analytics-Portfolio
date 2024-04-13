@@ -3,8 +3,8 @@
 - Introduction
 - Data Exploratory
 - Dashboard
-- Analysis/key findings
-- Conclusion
+- Results (Summarized)
+- Reccomendations
 
 ## Step 1: Introduction:
 Dhavel Patel and his partner Hemanand Vadivel, founders or E-learning platform, code basics, partner up to create different challeneges that aspiring analysts can use to practice and develop their analytical skills to help them become a better data analysts.
@@ -186,23 +186,47 @@ Which marketing channel can be used to reach more customers? - A: Responders sel
 
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/750641f7-e0e5-40fe-ba27-3b4e55634e6c)
 
-
-
 ---- 
 
 ## Step 3: Visualization in Power BI:
 
-### Contents include:
+Analysis and findings exported to Power BI to build an interactive dashboard
 
+**Contents**
+- Consumer age
+- Heat map of energy distributions in India
+- Reason for choosing brand
+- Taste Rating
+- location where Energyu drink purchased
+- Imnprovements desired
 
-
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/9e133f37-fb5e-44e7-b2b1-7e5f75c5861f)
 
 ----
-## Step 4: Analysis/Key findings:
+## Step 4: Results (Summarized)
 
+1.) Most Energy drink consumers are Males Between the ages of 19-30 year olds and the frequency of consumers decreases as age increases
 
+2.) Surveyors expect to have caffeine as the main ingredient, however have an interest in natural/organic ingredients added into the drink
+
+3.) Majority of surveyors choose brands based on their reputation rather than taste.
+
+4.) Digital marketing has a larger impact than physical advertisements that reach the younger population.
+
+5.) Energy drinks are commonly purchased at supermarkets and gyms with an intent to increase energy or for working out. 
+
+6.) Major cities (Tier 1) have more availability of energy drinks compared to smaller cities (Tier 2)
 
 ----
-## Step 5: Conclusion:
+## Step 5: Reccomendations:
 
+Based on my analysis, here are some reccomendations that I would implement to increase the sales of Code X's energy drink.
 
+**Brand Reputation and marketing changes**
+- Based on my analysis, it is apparant that surveyors select brands due to their popularity. With this in mind, the company can increase their reputation by leveraging partnerships with famous individuals who also consume energy drinks to help them increase their performance in the gym. This partnership can be portrayed through digital marketings strategies such as social media, commericals, and digital promotions.
+
+**Taste** 
+- Furthermore, the taste of Code X energy drink product can make small improvements for significant results. Small adjustments such as reducing sugar content, increasing natural/organic ingredients, and increasing a broad band of flavors will improve consumers preference when selecting enery drinks. This will also help with brand reputation by raising awareness for a push on health inititiaves and listening to consumer preferences.
+
+**Availability**
+- Overall, my analysis underscores the importance of improving availability in supermarkets, gyms, and larger cities as a strategic initiative to drive market expansion and increase brand visibility. By capitalizing on these key distribution channels and tailoring our approach to meet the unique needs of each market segment, our energy drink company can position itself for sustained growth and success in the competitive beverage industry landscape
