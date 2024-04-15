@@ -26,4 +26,4 @@ Linkedin: [Cedrick Cavan](https://www.linkedin.com/in/cedrickcavan1999/) :mailbo
   - [Netflix Dashboard](https://public.tableau.com/views/NetflixDashboard_17083612145830/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
   - [Global Deaths Dashboard](https://github.com/CavCed/Data-Analytics-Portfolio/tree/ddac8c23a5c5160b139eea78b5b489c7b8df5e53/Tableau)
 - ### Power BI 📊
--   [Code X Dashboard](
+  - [Code X Dashboard](
