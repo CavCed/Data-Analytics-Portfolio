@@ -1,5 +1,4 @@
 ## Tableau Projects
-Below are the different tableau project dashboards I have created. Enjoy!
 
 ### Washington County Sales
 
