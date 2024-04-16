@@ -32,3 +32,19 @@ Data Collection, EDA (Exploratory Data Analysis), Data cleaning and manipulation
 **Software**:
 
 Microsoft Excel, Microsoft SQL server, Tableau
+
+----
+## Code X Energy Drink Marketing Analysis
+**Code**: [Code X Energry Drink Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/blob/50f4bb157bce7500fd98f66540c380b7a59a4fea/SQL/Code%20X%20/Full%20Analysis.md)
+
+**Description**:
+
+CodeX launched its energy drink in 10 Indian cities and conducted a survey with 10k respondents. The marketing team, led by Peter Pandey, aimed to extract insights to enhance brand awareness, market share, and product development. The analysis focused on demographic insights, consumer preferences, competition analysis, marketing channels, brand penetration, purchase behavior, and product development.
+
+**Skills**:
+
+Exploratory Data Analysis (EDA), SQL JOINS/CTE/SUBQUERIES, Critical thinkning, Power BI, visualization
+
+**Software**:
+
+Google BigQuery, Power BI
