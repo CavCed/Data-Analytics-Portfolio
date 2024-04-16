@@ -1,5 +1,15 @@
 ## Power BI projects
 
+### Data Profession Survey
+
+**Description**
+
+The Power BI dashboard presents comprehensive insights into survey respondents' demographics, job satisfaction, career challenges, and salary distribution across various occupations.
+
+**Code**: [Data Profession Survey](
+
+[Data_Profession_Survey.pdf](https://github.com/CavCed/Data-Analytics-Portfolio/files/14985297/Data_Profession_Survey.pdf)
+
 ### Code X Energy Drink Analysis
 
 **Description**
