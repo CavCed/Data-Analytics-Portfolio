@@ -6,9 +6,10 @@
 
 The Power BI dashboard presents comprehensive insights into survey respondents' demographics, job satisfaction, career challenges, and salary distribution across various occupations.
 
-**Code**: [Data Profession Survey](
+**Code**: [Data Profession Survey](https://github.com/CavCed/Data-Analytics-Portfolio/files/14985297/Data_Profession_Survey.pdf)
 
-[Data_Profession_Survey.pdf](https://github.com/CavCed/Data-Analytics-Portfolio/files/14985297/Data_Profession_Survey.pdf)
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/9969c790-75d9-4cbc-8aa9-b337e2478f3a)
+
 
 ### Code X Energy Drink Analysis
 
@@ -16,6 +17,6 @@ The Power BI dashboard presents comprehensive insights into survey respondents' 
 
 Findings from the project were visualized using Power BI, including purchase locations, taste ratings, and improvement preferences
 
-**Code**: [Code X Energy Drink Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/blob/ba6e0434c933dbf4031f53e0a30f0047880b3ee7/SQL/Code%20X%20/Full%20Analysis.md)
+**Code**: [Code X Energy Drink Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/files/14985256/CodeXDashboard.pdf)
 
-[CodeXDashboard.pdf](https://github.com/CavCed/Data-Analytics-Portfolio/files/14985256/CodeXDashboard.pdf)
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/b1395a9d-4cc7-405a-b3b3-f2951d882569)
