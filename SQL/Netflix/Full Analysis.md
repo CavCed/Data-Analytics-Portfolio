@@ -15,7 +15,7 @@ This dataset is located and extraced from [Kaggle.com](https://www.kaggle.com/da
 Netflix is a renowned streaming service that offers a wide variety of award-winning TV shows and Movies that individuals can binge if they purchase a membership with the company. The streaming service was first founded in 1997 and launched in April of 1998. This dataset consists the listing of all the movies and TV shows available on Netflix, along with details such as cast members, directors, ratings, release year, and duration.
 
 ### Methodology: 
-The dataset was originally downloaded to Microsoft Excel for brief data cleaning and then later uploaded to Microsoft SQL Server for further exploratory analysis. After discovering patterns and KPIs, I will move the data to Tableau for a detailed visualization. 
+The dataset was originally downloaded to Microsoft Excel for brief data cleaning and then later uploaded to Microsoft SQL Server for further exploratory analysis. After discovering patterns and KPIs, I moved the data to Tableau for a detailed visualization. 
 &nbsp;
 
 ### Questions that Need to be Answered:
