@@ -11,13 +11,13 @@ Dhavel Patel and his partner Hemanand Vadivel, founders or E-learning platform, 
 
 The dataset can be found on their main website here [Codebasic.io](https://codebasics.io/challenge/codebasics-resume-project-challenge).
 
-The datasets that are included in the challenege are 3 CSV files: 
+The datasets that are included in the challenge are 3 CSV files: 
 - dim_respondents.csv
 - dim_cities.csv
 - fact_survey_responses.csv
 
 ### Scenario: 
-CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in located in India.
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
@@ -74,15 +74,15 @@ The datasets were downloaded to Google's Big Query cloud platform for data clean
 ----
 ## Step 2: Data Exploratory:
 #### Data Cleaning Process:
-Once the datasets were downloaded, they were uploaded to Google's cloud platform Big Query for date cleaing and exploratory using GoogleSQL.
+Once the datasets were downloaded, they were uploaded to Google's cloud platform Big Query for data cleaing and exploratory using GoogleSQL.
 
-After review, this dataset is very clean due to no duplicates, null, or missing values allowing for an accurate analysis.
+After review, this dataset is very clean as there are no duplicates, null, or missing values allowing for an accurate analysis.
 
 #### Data Exploratory
 
 ##### 1. Demographic Insights
 
-Who Prefers Energy Drinks more? - Males
+Who Prefers Energy Drinks more? - A: Males
 
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/e7a86b7b-13cb-42b9-be86-3540e019ddb7)
 
