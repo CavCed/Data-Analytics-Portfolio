@@ -72,7 +72,7 @@ To do this, I asked myself these following questions:
 
 3.) Data values were uploaded using MySQL's table data import wizard
 
-![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/e20dbf1b-87cf-42a8-ae77-2f46e3325b39)
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/40ef6771-c9c9-41db-b10e-c0990619d259)
 
 ## Step 3: Data cleaning and exploratory analysis:
 
@@ -101,13 +101,23 @@ d.) What percentage of sales in different regions account for global sales? - NA
 
 e.) What are the top 5 most recent best-selling video games?
 
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/097df995-2d2c-400d-a472-59dccb2c60f9)
 
 
 ##### Genre distribution
 
 a.) What genre is sold the most globally?
 
+- Most games that are sold are action games.
+  
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/73b61d40-1118-4473-aadf-974ea97749ab)
+
+
 b.) How much does each genre sale on a global level?
+
+- Action, Sports, and shooting games sold the most
+  
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/c785d47c-0dbe-415d-a121-962a4cd863be)
 
 c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
 
@@ -115,13 +125,33 @@ c.) How do genre preferences differ between North America, Europe, Japan, and ot
 
 a.) What publication company produced the most video games?
 
+- Electronic Art ranks the #1 puiblishing company with the most amount of video games sold per million
+
+  ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/f2c60e2e-d712-49b4-b4b6-f3025e5ac706)
+
+
 b.) What publication company has made the most sales throughout the year?
+
+- Although Electronic arts sold the most video games, Nintendo has made the largest sales
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/b562fb28-445c-4354-ae60-995d85d4346b)
+
 
 #### Platform analysis
 
 a.) What platform has the most video games sold?
 
+- DS ranks as the platform with the most video games
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/14dbff95-8c67-450b-8d8e-bc1c124c3233)
+
+
 b.) What platform makes the most amount of video game sales per platform?
+
+- PS2, Xbox 360, and PS3 rank as the platforms with the most sales
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/e856cfc8-6e56-47fe-9b76-20f28cb12c1b)
+
 
 ## Step 4: Visualizing findings
 
