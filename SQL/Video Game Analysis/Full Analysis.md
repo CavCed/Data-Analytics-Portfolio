@@ -83,15 +83,25 @@ While using the import data wizard, an unnecessary column "video_salesco" was cr
 
 ##### Regional Sales Analysis:
 
-a.) What are the sales trend throughout the years?
+a.) What are the sales trend throughout the years? (looking at the last 10 years)
 
-b.) What year had the most sales?
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/605807a8-4874-436a-8d49-3ef3d48f8bcc)
 
-c.) What region has the most avergae sales per year? The least?
+b.) What year had the most sales? - 2008 had the most sales 
 
-d.) What percentage of sales in different regions account for global sales?
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/c689d400-e270-4cf6-b0f8-4e2257ab04e4)
+
+c.) What region has the most avergae sales per year? The least? - North America ranks the highest average sales compared to other regions
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/27301571-6ea4-4e68-8670-bf67bb122572)
+
+d.) What percentage of sales in different regions account for global sales? - NA = 49%, Europe = 27%, Japan = 15%, Other = 9%
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/657f489f-e18a-44d0-bb4f-34f1a1fae4fb)
 
 e.) What are the top 5 most recent best-selling video games?
+
+
 
 ##### Genre distribution
 
