@@ -99,14 +99,14 @@ d.) What percentage of sales in different regions account for global sales? - NA
 
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/657f489f-e18a-44d0-bb4f-34f1a1fae4fb)
 
-e.) What are the top 5 most recent best-selling video games?
+e.) What are the top 5 best-selling video games?
 
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/097df995-2d2c-400d-a472-59dccb2c60f9)
 
 
 ##### Genre distribution
 
-a.) What genre is sold the most globally?
+a.) What genre of gaming is more prevelant?
 
 - Most games that are sold are action games.
   
@@ -114,9 +114,7 @@ a.) What genre is sold the most globally?
 
 
 b.) How much does each genre sale on a global level?
-
-- Action, Sports, and shooting games sold the most
-  
+ 
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/c785d47c-0dbe-415d-a121-962a4cd863be)
 
 c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
@@ -155,9 +153,43 @@ b.) What platform makes the most amount of video game sales per platform?
 
 ## Step 4: Visualizing findings
 
+After discovering key indicators and patterns within the dataset, I transitioned the data to Power BI, using the software's robust feature, to create an interactive dashboard that provides visualizations of the most important findings within the data.
+
+Contents that are included in the dashboard are:
+
+- Sales per year on a global scale and per regions
+- Distribution of sales by Genre
+- Top selling games
+- Total sales by paltform
+
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/943e483c-f883-496f-bd20-cf795cd5799f)
 
 
-## Step 5: Results
+## Step 5: Results/Conclusion:
 
-#### Key Insights 
+##### Regional sales
+
+a.) What are the sales trend throughout the years?
+
+b.) What year had the most sales?
+
+c.) What region has the most avergae sales per year? The least?
+
+d.) What percentage of sales in different regions account for global sales?
+
+e.) What are the top 5 most recent best-selling video games?
+
+##### Genre distribution
+
+Based on analysis, action games were sold the most among any other gaming genre especially sports games, that ranked second, by more than 1000 games sold. With most game genres that are sold as action games, it is no suprise that they have the made the most sales globally selling 1722.88 sales.
+
+
+c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
+
+##### Publisher 
+
+a.) What publication company produced the most video games?
+
+- 
+
+b.) What publication company has made the most sales throughout the year?
