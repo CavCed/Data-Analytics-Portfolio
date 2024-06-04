@@ -1,4 +1,4 @@
-# Video Game Analysis
+# Video Game Sales Analysis
 ## Table of Contents
 - Introduction
 - Creating the data
@@ -16,10 +16,16 @@ Link to the dataset can be found here: [Kaggle.com](https://www.kaggle.com/datas
 ###  Methodology
 The dataset was originally downloaded as a CSV file but then translated to MySQL where I then created a database and performed exploratory analysis. After discovering important findings and conclusions, I transferred the data into Power BI to create an interactive and detailed visualization.
 
+### Tools Used
+- Microsoft Excel
+- MySQL
+- Power BI
+
 ### Main Tasks
 The main objective of this project was to analyze and discover the sales performance of video games across different regions, platforms, and genres to identify trends and patterns to assist in strategic decision-making for game developers and marketers. 
 
-To do this, I asked myself these following questions:
+To complete this, I asked myself these following questions:
+
 1. Regional sales analysis:
 
         a.) What are the sales trend throughout the years?
@@ -40,7 +46,7 @@ To do this, I asked myself these following questions:
 
         c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
 
-3.) Publisher 
+3.) Publisher analysis
 
         a.) What publication company produced the most video games?
 
@@ -182,8 +188,5 @@ c.) How do genre preferences differ between North America, Europe, Japan, and ot
 
 ##### Publisher 
 
-a.) What publication company produced the most video games?
+- With the data set containing around 16,327 different publishers, Electronic arts, or EA, has produced the most amount of video games for players. However, Ninentendo ranks as the top publishing company that has made the most sales of video games. In fact, Wii Sports created by Nintendo is the number 1 selling game within this dataset.
 
-- With the data set containing around 16327 different publishers, Electronic arts, or EA, has produced the most amount of video games for users. However, Ninentendo ranks as the top publishing company that has made the most sales of video games.
-
-b.) What publication company has made the most sales throughout the year?
