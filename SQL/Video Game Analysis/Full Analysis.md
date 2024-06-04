@@ -4,7 +4,7 @@
 - Creating the data
 - Cleaning/Exploratory Data Analysis
 - Power BI Dashboard
-- Results/findings
+- Summary
 
 ## Step 1: Introduction:
 
@@ -165,23 +165,17 @@ Contents that are included in the dashboard are:
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/943e483c-f883-496f-bd20-cf795cd5799f)
 
 
-## Step 5: Results/Conclusion:
+## Step 5: Summary:
 
 ##### Regional sales
 
-a.) What are the sales trend throughout the years?
+- The sales of video games throughout the years can be seen increasing and one of the main factors contributing to this are new and updated platforms that allow gamers to have a better gaming experience. Peak years of sales can be seen from the years of 2006-2010 and then a slight decrease in sales. This can potentiall be due to new platoform moving to digital gaming which can be difficult to track the number of sales for a video game.
 
-b.) What year had the most sales?
-
-c.) What region has the most avergae sales per year? The least?
-
-d.) What percentage of sales in different regions account for global sales?
-
-e.) What are the top 5 most recent best-selling video games?
+- Throughout the years, there have been approximately 8820.36 million video games sold. On a regional scale, North America is responsible for majority of games sold (49%) followed by Europe (27%), Japan (15%), and other regions (9%) around the globe. 
 
 ##### Genre distribution
 
-Based on analysis, action games were sold the most among any other gaming genre especially sports games, that ranked second, by more than 1000 games sold. With most game genres that are sold as action games, it is no suprise that they have the made the most sales globally selling 1722.88 sales.
+Based on analysis, action games were sold the most among any other gaming genre especially sports games, that ranked second, by more than 1000 games sold. With most game genres that are sold as action games, it is no suprise that they have the made the most sales globally selling 1722.88 million sales.
 
 
 c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
@@ -190,6 +184,6 @@ c.) How do genre preferences differ between North America, Europe, Japan, and ot
 
 a.) What publication company produced the most video games?
 
-- 
+- With the data set containing around 16327 different publishers, Electronic arts, or EA, has produced the most amount of video games for users. However, Ninentendo ranks as the top publishing company that has made the most sales of video games.
 
 b.) What publication company has made the most sales throughout the year?
