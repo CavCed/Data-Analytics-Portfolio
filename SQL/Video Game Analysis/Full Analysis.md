@@ -143,7 +143,7 @@ b.) What publication company has made the most sales throughout the year?
 
 #### Platform analysis
 
-a.) What platform has the most video games sold?
+a.) What platform has the most video games per platform?
 
 - DS ranks as the platform with the most video games
 
@@ -175,18 +175,8 @@ Contents that are included in the dashboard are:
 
 ##### Regional sales
 
-- The sales of video games throughout the years can be seen increasing and one of the main factors contributing to this are new and updated platforms that allow gamers to have a better gaming experience. Peak years of sales can be seen from the years of 2006-2010 and then a slight decrease in sales. This can potentiall be due to new platoform moving to digital gaming which can be difficult to track the number of sales for a video game.
+The dataset indicates that North America is the leading market for video game sales, demonstrating a robust consumer base and significant revenue generation in this particular region. In particular, North America is responsible to approximately 49% of sales within this dataset followed by Europe (27%), Japan (15%) and other regions (9%).
 
-- Throughout the years, there have been approximately 8820.36 million video games sold. On a regional scale, North America is responsible for majority of games sold (49%) followed by Europe (27%), Japan (15%), and other regions (9%) around the globe. 
+Action games emerge as the top-selling genre, highlighting the genre's widespread appeal and ability to engage their audiences. Electronic Arts, or EA, stands as the publication company with the most video games published. However, Nintendo, stands as the leading publication with the highest sales. A primary example is one of their games "Wii Sports" which is the number 1 highest selling video game within this dataset. Additionally, the PlayStation 2 (PS2) is identified as the leading platform with the highest amount of sales. This is possibly due to advance graphic design and gameplay the platform offers on a diverse set of videogames.
 
-##### Genre distribution
-
-Based on analysis, action games were sold the most among any other gaming genre especially sports games, that ranked second, by more than 1000 games sold. With most game genres that are sold as action games, it is no suprise that they have the made the most sales globally selling 1722.88 million sales.
-
-
-c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
-
-##### Publisher 
-
-- With the data set containing around 16,327 different publishers, Electronic arts, or EA, has produced the most amount of video games for players. However, Ninentendo ranks as the top publishing company that has made the most sales of video games. In fact, Wii Sports created by Nintendo is the number 1 selling game within this dataset.
-
+With these key findings, game developers and marketing experts can use this information to create strategic decision-making choices to benefit their company and continute to create appealing and state of the art video games for players.
