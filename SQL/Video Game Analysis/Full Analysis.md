@@ -89,9 +89,9 @@ While using the import data wizard, an unnecessary column "video_salesco" was cr
 
 ##### Regional Sales Analysis:
 
-a.) What are the sales trend throughout the years? (looking at the last 10 years)
+a.) What are the sales trend throughout the years? (looking at the last 5 years)
 
-![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/605807a8-4874-436a-8d49-3ef3d48f8bcc)
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/7b45e349-a02e-44ab-8ab3-3bf473cd39c3)
 
 b.) What year had the most sales? - 2008 had the most sales 
 
