@@ -123,7 +123,10 @@ b.) How much does each genre sale on a global level?
  
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/c785d47c-0dbe-415d-a121-962a4cd863be)
 
-c.) How do genre preferences differ between North America, Europe, Japan, and other regions?
+c.) How do genre preferences differ between North America, Europe, Japan, and other regions? - Action games rank as the number one selling genre in all regions besides Japan which is role-playing. Further more, Role-playing accounts for more than a quarter of genre sales in the Japan region.
+
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/14741852-d75e-44c5-90f7-f15e5a8e56e8)
+
 
 ##### Publisher 
 
@@ -175,8 +178,8 @@ Contents that are included in the dashboard are:
 
 ##### Regional sales
 
-The dataset indicates that North America is the leading market for video game sales, demonstrating a robust consumer base and significant revenue generation in this particular region. In particular, North America is responsible to approximately 49% of sales within this dataset followed by Europe (27%), Japan (15%) and other regions (9%).
+The dataset indicates that North America is the leading market for video game sales, demonstrating a robust consumer base and significant revenue generation in this particular region. In particular, North America is responsible for approximately 49% of sales within this dataset followed by Europe (27%), Japan (15%) and other regions (9%). Marketers can use this information to target more advertisements and promotions that have the most sales as most buyers will be located within each respective regions.
 
 Action games emerge as the top-selling genre, highlighting the genre's widespread appeal and ability to engage their audiences. Electronic Arts, or EA, stands as the publication company with the most video games published. However, Nintendo, stands as the leading publication with the highest sales. A primary example is one of their games "Wii Sports" which is the number 1 highest selling video game within this dataset. Additionally, the PlayStation 2 (PS2) is identified as the leading platform with the highest amount of sales. This is possibly due to advance graphic design and gameplay the platform offers on a diverse set of videogames.
 
-With these key findings, game developers and marketing experts can use this information to create strategic decision-making choices to benefit their company and continute to create appealing and state of the art video games for players.
+With these key findings, game developers and marketing experts can use this information to create strategic decision-making choices to benefit their company and continute to create appealing and state of the art video games for players while staying on top of their competitors. 
