@@ -63,6 +63,8 @@ To complete this, I asked myself these following questions:
 
 1.) The first step in uploading this dataset into MySQL was first creating a database to connect to.
 
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/13a6856e-fa02-49a3-8bbb-1ead4fbf4f5d)
+
 2.) I then created a table with these following columns:
 
 - Rank (INT)
@@ -78,7 +80,7 @@ To complete this, I asked myself these following questions:
 
 3.) Data values were uploaded using MySQL's table data import wizard
 
-![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/40ef6771-c9c9-41db-b10e-c0990619d259)
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/bf411d63-6838-4017-a7ee-e44c51ac6faf)
 
 ## Step 3: Data cleaning and exploratory analysis:
 
@@ -95,7 +97,7 @@ a.) What are the sales trend throughout the years? (looking at the last 5 years)
 
 b.) What year had the most sales? - 2008 had the most sales 
 
-![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/c689d400-e270-4cf6-b0f8-4e2257ab04e4)
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/aaec4f5d-e18a-4b31-8cd9-3b97dd51d182)
 
 c.) What region has the most avergae sales per year? The least? - North America ranks the highest average sales compared to other regions
 
@@ -107,14 +109,13 @@ d.) What percentage of sales in different regions account for global sales? - NA
 
 e.) What are the top 5 best-selling video games?
 
-![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/097df995-2d2c-400d-a472-59dccb2c60f9)
-
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/74e45fe2-023e-4120-9bfa-1949f7082326)
 
 ##### Genre distribution
 
 a.) What genre of gaming is more prevelant?
 
-- Most games that are sold are action games.
+- Most games that were released fall under action games.
   
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/73b61d40-1118-4473-aadf-974ea97749ab)
 
@@ -170,9 +171,6 @@ Contents that are included in the dashboard are:
 - Distribution of sales by Genre
 - Top selling games
 - Total sales by paltform
-
-![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/943e483c-f883-496f-bd20-cf795cd5799f)
-
 
 ## Step 5: Summary:
 
