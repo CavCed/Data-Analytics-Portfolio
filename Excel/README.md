@@ -11,14 +11,4 @@ The dataset contained an orders table, customer table, and product type table in
 
 **Skills**: INDEX(), IF(), XLOOKUP(), CONVERT(), Pivot Tables, filter, slicer, visualization
 
---- 
-
-### Customer Service Dashboard
-
-**Code** [Customer Service Dashboard](https://github.com/CavCed/Data-Analytics-Portfolio/blob/1fd5b07705807fe73f1ccf033709f5cd185a497f/Excel/Customer%20Service%20Dashboard%20(Final).xlsx)
-
-**Description**
-
-For this personal project, data were collected for each phone call that I answered for American Equity Life Investment Holding Company. Data contained information such as date of call, client's date of birth, their current age, reason for calling, and the duration of the call. For privacy reasons, their full name, contract number, and social security information was excluded to protect individuals.
-
-**Skills**: Removing Duplicates, Filtering, YEAR(), Find & replace, PIVOT tables, chart visualization, slicers.
+![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/9ea37cfa-7be4-4b9c-9fd2-6b33291c0e4b)
