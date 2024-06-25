@@ -172,6 +172,9 @@ Contents that are included in the dashboard are:
 - Top selling games
 - Total sales by paltform
 
+ ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/c742990d-61ec-4dca-bb07-d8f6d3aef41a)
+
+
 ## Step 5: Summary:
 
 ##### Regional sales
