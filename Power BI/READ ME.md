@@ -27,7 +27,7 @@ Findings from the project were visualized using Power BI, including purchase loc
 **Description**
 Created and developed 5 Power BI dashboards for MavenTech, a fictional tech company, on revenue, sales teams, product, and sector performances.
 
-**Code**: [CRM Sales Opportunities]()
+**Code**: [CRM Sales Opportunities](https://github.com/CavCed/Data-Analytics-Portfolio/blob/main/SQL/CRM%20Sales%20Opportunities/Read%20ME.md)
 
 <img width="776" height="439" alt="image" src="https://github.com/user-attachments/assets/86db3f6e-592c-4746-8da4-454bba6fcd87" />
 
