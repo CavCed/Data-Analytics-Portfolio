@@ -20,3 +20,11 @@ Findings from the project were visualized using Power BI, including purchase loc
 **Code**: [Code X Energy Drink Analysis](https://github.com/CavCed/Data-Analytics-Portfolio/files/14985256/CodeXDashboard.pdf)
 
 ![image](https://github.com/CavCed/Data-Analytics-Portfolio/assets/154090883/b1395a9d-4cc7-405a-b3b3-f2951d882569)
+
+
+### CRM Sales Opportunities Dashboard
+
+**Description**
+Created and developed 5 Power BI dashboards for MavenTech, a fictional tech company, on revenue, sales teams, product, and sector performances.
+
+**Code**: 
