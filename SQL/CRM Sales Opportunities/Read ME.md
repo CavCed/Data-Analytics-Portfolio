@@ -62,8 +62,11 @@ The following business questions were developed from the perspective of sales ex
 
 Cleaning process included analyzing 8,800 total records within each csv files that were uploaded into Big Query for processing and data relationships across each table.
 Data inconsistencies found are listed below:
-  - Product listed as "GTXPro" formatted to match original "GTX Pro"
-  - Philippines misspelled as "Philipines"
+  - New views were created for sales pipeline and accounts table for the reasons below:
+    - Product listed as "GTXPro" formatted to match original "GTX Pro"
+    - Philippines misspelled as "Philipines"
+    - "Technolgy" corrected to "Technology"
+    - Blank account values renamed to "Unknown Accounts"
 
 ### Executive Summary
       a. How much revenue is the company generating from closed-won opportunities?
